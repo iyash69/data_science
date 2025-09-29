@@ -1,1 +1,1 @@
-# data_science
+# data_science is the name of this course
